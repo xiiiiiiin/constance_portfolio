@@ -51,6 +51,12 @@ template {
     display: none
 }
 
+.aligncenter {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 a {
     background-color: transparent
 }
