@@ -3692,6 +3692,11 @@ figure:hover figcaption {
     background-color: #FF5722;
 }
 
+.project-blurb.pink:hover {
+    background-color: #EC0974;
+}
+
+
 .project-blurb:hover h2 {
     color: #fafafa;
 }
