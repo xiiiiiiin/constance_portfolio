@@ -63,6 +63,9 @@ body {
     : #fff
 }
 
+.flex-next, .flex-prev {
+    font-size: 0px;
+}
 .page-title h1,
 .probootstrap-card .probootstrap-card-text .probootstrap-card-heading,
 .probootstrap-panel .panel .panel-title,
@@ -2088,7 +2091,7 @@ figure:hover figcaption {
     font-family: icomoon;
     speak: none;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 0;
     font-variant: normal;
     text-transform: none;
     line-height: 1;
