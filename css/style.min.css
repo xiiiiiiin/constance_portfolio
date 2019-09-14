@@ -2163,7 +2163,7 @@ figure:hover figcaption {
     border-radius: 50%;
     -webkit-transition: .3s all;
     transition: .3s all;
-    border: 2px solid #6f6f6f
+    border: 2px solid #6f6f6f;
 }
 
 .flex-control-paging li a:hover {
@@ -2174,7 +2174,7 @@ figure:hover figcaption {
 .flex-control-paging li a.flex-active {
     background: 0 0;
     cursor: default;
-    border: 2px solid #000000
+    border: 2px solid #000000;
 }
 
 .owl-carousel {
