@@ -2154,7 +2154,6 @@ figure:hover figcaption {
     width: 10px;
     height: 10px;
     display: block;
-    background: rgba(255, 255, 255, .8);
     cursor: pointer;
     text-indent: -9999px;
     -webkit-box-shadow: none;
