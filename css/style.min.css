@@ -3698,6 +3698,11 @@ figure:hover figcaption {
     background-color: #EC0974;
 }
 
+.project-blurb.deepblue:hover {
+    background-color: #1155ccff;
+}
+
+
 
 .project-blurb:hover h2 {
     color: #fafafa;
