@@ -252,7 +252,7 @@ a:hover {
     padding: 0 10px;
     list-style: none;
     display: inline;
-    font-size: 18px
+    font-size: 17px
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li {
@@ -263,7 +263,7 @@ a:hover {
 }
 
 .probootstrap-main-nav li a {
-    font-weight: 400;
+    font-weight: 300;
     padding: 10px 0;
     : #a4abb6
 }
